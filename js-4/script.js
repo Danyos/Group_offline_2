@@ -48,6 +48,4 @@
 // console.log(str.slice(str.indexOf(23),str.indexOf(23)+3))
 
 
-
-//
 // console.log((0 || 1 || false)&&8)
