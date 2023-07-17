@@ -9,6 +9,10 @@
 
 
 
+// let x=7
+
+
+
 
 // let str="Lorem ipsum dolor sit amet. consectetur adipisicing elit." +
 //     " Aliquid debitis dignissimos, dolor enim nemo perspiciatis recusandae veritatis voluptatibus." +
